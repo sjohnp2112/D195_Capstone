@@ -6,4 +6,4 @@ the rest of the team. A blue-chip ratio greater than 50% is typically indicative
 
 Dependent variable: number of wins in a team's season record.<br>
 Independent variable: the blue-chip ratio.<br>
-Outcome: the number of players that were blue-chips as a recruit was not a major factor in winning college football games.
+Outcome: No statistically significant findings. The number of players that were blue-chips as a recruit was not a major factor in winning college football games.
